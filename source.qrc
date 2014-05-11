@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/logo.gif</file>
+        <file>source/sms.wav</file>
+    </qresource>
+</RCC>
